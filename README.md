@@ -36,4 +36,4 @@ I'm a passionate developer who loves to code and learn new technologies.
 -->
 
 ---
-⭐️ From [Arkariza](https://github.com/Arkariza)
+
