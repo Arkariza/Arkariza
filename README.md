@@ -2,7 +2,7 @@
 
 ## About Me
 <!-- You can personalize this section with your own information -->
-I'm a passionate developer who loves to code and learn new technologies.
+I'm a Beginner Web And Mobile Dev.
 
 ## 🔭 GitHub Stats
 
