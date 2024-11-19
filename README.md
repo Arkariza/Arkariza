@@ -22,7 +22,7 @@ I'm a Beginner Web And Mobile Dev.
 
 ## 🌱 I'm currently learning
 <!-- Add technologies you're currently learning -->
-- Machine Learning
+- Ai
 - Web Development
 - Mobile App Development
 
