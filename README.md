@@ -72,7 +72,7 @@ passion: Building things that live on the internet
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -84,6 +84,6 @@ passion: Building things that live on the internet
 
 <div align="center">
 
-*"Every expert was once a beginner."* 🚀
+*"Every expert was once a beginner."*
 
 </div>
