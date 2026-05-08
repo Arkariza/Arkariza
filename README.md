@@ -53,10 +53,12 @@ passion: Building things that live on the internet
 
 ## GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZexDv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="ZexDv's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZexDv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="40%" />
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arkariza&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkariza&layout=compact&theme=tokyonight" height="165">
+</p>
 <br/><br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Arkariza&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
