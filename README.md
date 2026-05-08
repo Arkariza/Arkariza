@@ -61,11 +61,9 @@ passion: Building things that live on the internet
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arkariza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkariza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 </div>
 
